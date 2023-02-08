@@ -17,7 +17,6 @@ while (not end):
         item_no += 1
         print("\tprice entered: Rs {:.2f}".format(price))
 
-
 print("=======================================================================")
 print("TOTAL ITEMS purchased: {:d}".format(item_no))
 print("TOTAL: Rs {:.2f}".format(total))
