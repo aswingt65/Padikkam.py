@@ -23,6 +23,5 @@ print("TOTAL ITEMS purchased: {:d}".format(item_no))
 print("TOTAL: Rs {:.2f}".format(total))
 
 print("----------------------------------------------------------------------")
-
 print ("\t\tThank You! Visit the Store Again")
 print("-----------------------------------------------------------------------")
