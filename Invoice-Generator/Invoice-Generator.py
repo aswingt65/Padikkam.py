@@ -112,7 +112,7 @@ def AddNewWindow():
     QUANTITY.set("")
     RATE.set("")
     NewWindow = Toplevel()
-    NewWindow.title("E-INVOICE GENERATOR")
+    NewWindow.title("INVOICE GENERATOR")
     width = 400
     height = 330
     screen_width = root.winfo_screenwidth()
